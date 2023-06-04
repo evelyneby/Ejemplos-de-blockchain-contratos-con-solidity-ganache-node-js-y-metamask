@@ -1,0 +1,27 @@
+.card {
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+   }
+   .form-control:focus {
+    border-color: #007bff;
+    box-shadow: none;
+   }
+   .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+   }
+   .btn-primary:hover {
+    background-color: #0069d9;
+    border-color: #0062cc;
+   }
+   #mensaje {
+    text-align: center;
+    font-weight: bold;
+   }
+   @media (min-width: 576px) {
+    .card {
+    border-radius: 0.25rem;
+    }
+   }
+   

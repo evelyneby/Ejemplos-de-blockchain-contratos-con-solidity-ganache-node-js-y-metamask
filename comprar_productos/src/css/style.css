@@ -1,0 +1,31 @@
+
+/* Estilos para el título */
+#titulo {
+font-size: 2rem;
+margin-bottom: 2rem;
+}
+/* Estilos para el formulario de agregar productos */
+#agregarFormulario {
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+/* Estilos para los botones */
+.btn {
+margin-right: 1rem;
+}
+/* Estilos para la tabla de productos */
+#tablaProductos {
+margin-top: 2rem;
+}
+/* Estilos para la sección de conectar a MetaMask */
+#conectarBoton {
+margin-top: 2rem;
+margin-bottom: 2rem;
+}
+/* Estilos para los mensajes de error */
+.error {
+color: red;
+font-weight: bold;
+
+margin-top: 1rem;
+}
